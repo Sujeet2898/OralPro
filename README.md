@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# OralPro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+We are excited to introduce OralPro, a groundbreaking React application that is set to revolutionize dental care for children. With the aim of transforming smiles, one brush at a time, OralPro offers a range of innovative features and functionalities that will greatly benefit both children and dental professionals.
 
-## Available Scripts
+Our application comprises various pages and components carefully designed to provide a seamless and engaging experience. Let us walk you through some of the key highlights:
 
-In the project directory, you can run:
+Home: The landing page of OralPro welcomes users with a compelling message, emphasizing our commitment to revolutionizing dental care for children.
 
-### `npm start`
+About: Here, stakeholders can explore in-depth information about the application, gaining a deeper understanding of our purpose and the tremendous benefits OralPro offers to children and dental professionals alike.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Product: We proudly introduce our flagship product, OralScope, through this page. OralScope harnesses the power of high-resolution imaging technology to provide accurate dental assessments. Its real-time monitoring capabilities ensure comprehensive oral health evaluation, while personalized prompts and suggestions empower children to develop better oral hygiene habits. Seamless integration with dental practices ensures a smooth workflow, and the wireless, user-friendly design offers convenience for both users and professionals. With quick charging and long working time, uninterrupted examinations are guaranteed.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Information: This page serves as a comprehensive resource center for OralScope. Stakeholders will find detailed specifications, functionality explanations, and case studies that highlight how OralScope can significantly enhance dental assessments and care for children.
 
-### `npm test`
+Pricing: Our transparent pricing page outlines the various subscription plans and associated costs for OralPro and OralScope. We offer flexibility to cater to diverse needs and ensure affordability without compromising quality.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contact: We value stakeholder communication and have dedicated a page to facilitate easy contact. Users can find contact details, including email addresses, phone numbers, or a convenient contact form, ensuring seamless communication for inquiries and support.
 
-### `npm run build`
+To enhance user experience and convenience, we have incorporated additional components:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Footer: Present on all pages, the footer includes essential links, copyright information, privacy policy, and terms of service.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+GoToTop: On lengthier pages, this component allows users to effortlessly navigate back to the top with a single click, ensuring a smooth browsing experience.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Error Page: In the event of any errors or access to non-existent pages, our error page provides a friendly message and guidance to help users find their way back to valid content.
 
-### `npm run eject`
+Moreover, stakeholders will notice the presence of a hamburger icon, symbolizing a collapsible menu. This menu grants easy access to navigate between different pages or sections of the application.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We have also included two key buttons to further enhance user experience:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+"Find a Dentist" Button: Users can conveniently search for a dentist or dental clinic within their area, streamlining the process of finding suitable dental care.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+"Book Online" Button: This feature allows users to effortlessly schedule dental appointments online, offering a convenient and time-saving approach to booking.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+With OralPro, we are poised to transform dental care for children, leveraging advanced technology, personalization, and user-friendly design. We believe this will lead to improved oral health outcomes and a seamless experience for both children and dental professionals.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We are excited to embark on this journey together and welcome your feedback and support as we strive to make a lasting impact on children's oral health.
